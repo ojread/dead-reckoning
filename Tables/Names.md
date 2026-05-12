@@ -1,0 +1,40 @@
+Roll a d66 twice and combine first and last names.
+
+| d66 | Character 1 | Character 2 |
+| --- | ----------- | ----------- |
+| 11  | Ada         | Ashton      |
+| 12  | Alexei      | Anderson    |
+| 13  | Brennan     | Babbage     |
+| 14  | Carlos      | Castellan   |
+| 15  | Cora        | Calder      |
+| 16  | Dara        | Devereux    |
+| 21  | Emma        | Drake       |
+| 22  | Elliot      | Elden       |
+| 23  | Felix       | Farrow      |
+| 24  | Gideon      | Galen       |
+| 25  | Hana        | Hadley      |
+| 26  | Isobel      | Harken      |
+| 31  | Jack        | Inara       |
+| 32  | Juno        | Jones       |
+| 33  | Kael        | Keane       |
+| 34  | Kaspar      | Li          |
+| 35  | Lily        | Lopez       |
+| 36  | Lennox      | Mercer      |
+| 41  | Matteo      | Maddox      |
+| 42  | Mira        | Naylor      |
+| 43  | Natalie     | Novak       |
+| 44  | Noel        | Olsen       |
+| 45  | Oliver      | Palmer      |
+| 46  | Phoebe      | Patel       |
+| 51  | Quentin     | Quinn       |
+| 52  | Rhys        | Robinson    |
+| 53  | Reva        | Rodriguez   |
+| 54  | Sienna      | Singh       |
+| 55  | Tara        | Sato        |
+| 56  | Thomas      | Tanaka      |
+| 61  | Uma         | Upton       |
+| 62  | Violet      | Voss        |
+| 63  | Wallace     | Watson      |
+| 64  | Xanthe      | Yorke       |
+| 65  | Yvette      | Yeoman      |
+| 66  | Zack        | Ziegler     |
